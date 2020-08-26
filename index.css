@@ -9,7 +9,7 @@ header{width:100%;}
 header span img{width:500px;}
 header p{
     margin:0;
-    font-size:20px;
+    font-size:15px;
     color:#5E5E5E;
 }
 
@@ -18,7 +18,7 @@ header p{
     padding-top:80px;
 }
 .help h2{
-    font-size:18px;
+    font-size:14px;
     font-weight:200;
     padding-bottom:50px;
 }
@@ -33,7 +33,7 @@ header p{
     text-decoration: none;
 }
 .help ul li{
-    font-size:18px;
+    font-size:13px;
     padding:15px;
     clear: both;
 }
@@ -57,7 +57,7 @@ header p{
     color:#5E5E5E;
 }
 .main dl{
-    font-size:30px;
+    font-size:18px;
     font-weight: bold;
 }
 .main dt{
@@ -73,7 +73,7 @@ header p{
     padding:5px 0;
 }
 .main dt{
-    font-size:20px;
+    font-size:15px;
     font-weight: bold;
     display:none;
 }
@@ -97,7 +97,7 @@ header p{
     margin:0 auto;
 }
 .sample h1{
-    font-size:30px;
+    font-size:18px;
     font-weight:bold;
     padding-bottom:100px;
 }
