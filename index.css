@@ -130,25 +130,5 @@ header p{
 
 
 @media All and (max-width:1160px){
-    header p{
-        font-size:15px;
-    }
-    .help h2{
-        font-size:14px;
-    }
-    .help ul li{
-        font-size:12px;
-    }
-    .main dl{
-        font-size:15px;
-    }
-    .main dt p{
-        font-size:14px;
-    }
-    .main p{
-        font-size:12px;
-    }
-    .sample h1{
-        font-size:15px;
-    }
+  
 }
