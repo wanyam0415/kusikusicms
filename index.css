@@ -131,10 +131,10 @@ header p{
 
 @media All and (max-width:1160px){
     header p{
-        font-size:14px;
+        font-size:15px;
     }
     .help h2{
-        font-size:15px;
+        font-size:14px;
     }
     .help ul li{
         font-size:12px;
